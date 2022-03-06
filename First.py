@@ -58,3 +58,15 @@ name = "Muhammad Ahsan"
 # print(not 3 > 2)
 
 # If Else Statements
+
+# age = int(input("Enter Your Age"))
+# if age >= 18:
+#     print("you are adult")
+#     print("You can Vote")
+# elif age < 20 and age > 5:
+#     print("you are in school")
+# else:
+#     print("You are Child")
+
+# Design a Calculator using Pyhton
+
