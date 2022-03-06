@@ -191,6 +191,12 @@ name = "Muhammad Ahsan"
 
 # print(dir(math))
 
-from math import sqrt
-print(sqrt(16))
- 
+# from math import sqrt
+# print(sqrt(16))
+
+
+def sum(a, b=3):
+    print(a + b)
+
+
+sum(23)
