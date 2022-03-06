@@ -119,12 +119,13 @@ name = "Muhammad Ahsan"
 
 # data Types in Python
 
-marks = [
-    1,
-    4.2,
-    "Ali",
-    False,
-]
+# marks = [
+#     1,
+#     4.2,
+#     "Ali",
+#     False,
+# ]
+
 # print(marks[1:3])
 # for list in marks:
 #     print(list)
@@ -137,3 +138,16 @@ marks = [
 ]
 marks.append("Muhamad")
 print(marks)
+
+marks.insert(3, 100)
+print(marks)
+
+print(100 in marks)
+print(len(marks))
+
+# List i=using While Loop
+
+i=0
+ whilei<len<
+
+ 
