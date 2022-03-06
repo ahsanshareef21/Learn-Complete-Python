@@ -121,9 +121,19 @@ name = "Muhammad Ahsan"
 
 marks = [
     1,
-    3,
-    4,
-    "true",
+    4.2,
+    "Ali",
     False,
 ]
-print(marks[2])
+# print(marks[1:3])
+# for list in marks:
+#     print(list)
+
+marks = [
+    1,
+    4.2,
+    "Ali",
+    False,
+]
+marks.append("Muhamad")
+print(marks)
