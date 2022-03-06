@@ -187,3 +187,10 @@ name = "Muhammad Ahsan"
 
 # Functions in Python
 # inbuild , Module, User-Defined,
+# import math
+
+# print(dir(math))
+
+from math import sqrt
+print(sqrt(16))
+ 
