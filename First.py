@@ -71,23 +71,29 @@ name = "Muhammad Ahsan"
 #     print("You are Child")
 
 # Design a Calculator using Pyhton
-first = input("Enter First No : ")
-operator = input("Enter Operator (+ , - , / , %) : ")
-second = input("Enter second No : ")
 
-first = int(first)
-second = int(second)
+# first = input("Enter First No : ")
+# operator = input("Enter Operator (+ , - , / , %) : ")
+# second = input("Enter second No : ")
 
-if operator == "+":
-    print(first + second)
+# first = int(first)
+# second = int(second)
 
-elif operator == "-":
-    print(first - second)
+# if operator == "+":
+#     print(first + second)
 
-elif operator == "*":
-    print(first * second)
+# elif operator == "-":
+#     print(first - second)
 
-elif operator == "/":
-    print(first / second)
-else:
-    print("Enter Valid Value")
+# elif operator == "*":
+#     print(first * second)
+
+# elif operator == "/":
+#     print(first / second)
+
+# elif operator == "%":
+#     print(first % second)
+# else:
+#     print("Enter Valid Value")
+
+# Range
