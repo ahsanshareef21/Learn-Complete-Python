@@ -98,4 +98,32 @@ name = "Muhammad Ahsan"
 
 # Range
 
-print(range(5))
+# print(range(5))
+
+# loops in python
+
+# i = 1
+# while i <= 10:
+#     print(i * "*")
+#     i = i + 1
+
+# i = 5
+# while i >= 0:
+#     print(i * "*")
+#     i = i - 1
+
+#For loop
+
+# for item in range(5):
+#     print(item +2)
+
+# data Types in Python
+
+marks = [
+    1,
+    3,
+    4,
+    "true",
+    False,
+]
+print(marks[2])
