@@ -20,7 +20,7 @@
 # total = int(first) + int(second)
 # print(" the sum of no is" + str(total))
 
-from ast import operator
+from ast import Num, operator
 from importlib.util import find_spec
 from tokenize import String
 from unicodedata import name
@@ -97,3 +97,5 @@ name = "Muhammad Ahsan"
 #     print("Enter Valid Value")
 
 # Range
+
+print(range(5))
