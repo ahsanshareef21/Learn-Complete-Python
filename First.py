@@ -45,8 +45,14 @@ name = "Muhammad Ahsan"
 
 # Comaprison Oprator
 
-print(3 < 4)
-print(2 < 1)
-print(2 != 2)
+# print(3 < 4)
+# print(2 < 1)
+# print(2 != 2)
 
-# Logical Oprator
+# Logical Oprator Or  (Both False then False otherwise True) , And (Both true then true ) Operator , not  opertor
+
+# print(3 > 4 or 4 > 5)
+
+# print(3 < 4 and 4 < 5)
+
+# print(not 3 > 2)
