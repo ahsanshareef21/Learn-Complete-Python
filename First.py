@@ -26,3 +26,8 @@ from tokenize import String
 name = "Muhammad Ahsan"
 print(name.upper())
 print(name.find('A'))
+
+# it colud not change original string
+print(name.replace("Ahsan", "Ehsan"))
+
+print(name)
