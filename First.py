@@ -20,6 +20,8 @@
 # total = int(first) + int(second)
 # print(" the sum of no is" + str(total))
 
+from ast import operator
+from importlib.util import find_spec
 from tokenize import String
 from unicodedata import name
 
@@ -69,4 +71,23 @@ name = "Muhammad Ahsan"
 #     print("You are Child")
 
 # Design a Calculator using Pyhton
+first = input("Enter First No : ")
+operator = input("Enter Operator (+ , - , / , %) : ")
+second = input("Enter second No : ")
 
+first = int(first)
+second = int(second)
+
+if operator == "+":
+    print(first + second)
+
+elif operator == "-":
+    print(first - second)
+
+elif operator == "*":
+    print(first * second)
+
+elif operator == "/":
+    print(first / second)
+else:
+    print("Enter Valid Value")
