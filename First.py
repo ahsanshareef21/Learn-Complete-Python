@@ -21,13 +21,16 @@
 # print(" the sum of no is" + str(total))
 
 from tokenize import String
+from unicodedata import name
 
 #String
 name = "Muhammad Ahsan"
-print(name.upper())
-print(name.find('A'))
+# print(name.upper())
+# print(name.find('A'))
 
-# it colud not change original string
-print(name.replace("Ahsan", "Ehsan"))
+# # it colud not change original string
+# print(name.replace("Ahsan", "Ehsan"))
 
-print(name)
+# print(name)
+print("Ahsan" in name)
+print("Ali" in name)
