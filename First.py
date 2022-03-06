@@ -32,13 +32,21 @@ name = "Muhammad Ahsan"
 # print(name.replace("Ahsan", "Ehsan"))
 
 # print(name)
-print("Ahsan" in name)
-print("Ali" in name)
+# print("Ahsan" in name)
+# print("Ali" in name)
 
-#Oprators
-print(5**2)
-print(2 + 2 * 3 / 2)
+# #Oprators
+# print(5**2)
+# print(2 + 2 * 3 / 2)
 
 #Comments
 
-# Comments in Python
+# Comments start  in Python with # tag
+
+# Comaprison Oprator
+
+print(3 < 4)
+print(2 < 1)
+print(2 != 2)
+
+# Logical Oprator
