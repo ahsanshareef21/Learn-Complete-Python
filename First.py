@@ -130,24 +130,60 @@ name = "Muhammad Ahsan"
 # for list in marks:
 #     print(list)
 
-marks = [
-    1,
-    4.2,
-    "Ali",
-    False,
-]
-marks.append("Muhamad")
-print(marks)
+# marks = [
+#     1,
+#     4.2,
+#     "Ali",
+#     False,
+# ]
+# marks.append("Muhamad")
+# print(marks)
 
-marks.insert(3, 100)
-print(marks)
+# marks.insert(3, 100)
+# print(marks)
 
-print(100 in marks)
-print(len(marks))
+# print(100 in marks)
+# print(len(marks))
 
 # List i=using While Loop
 
-i=0
- whilei<len<
+# i = 0
+# while i < len(marks):
+#     print(marks[i])
+#     i = i + 1
 
- 
+# marks.clear()
+# print(marks)
+
+# students = ["muhammad", "Ahsan", "Ali", "raza"]
+# for item in students:
+#     if item == "Ali":
+#         continue
+#     print(item)
+
+# Tuple: inmutable
+
+# std = ("muhammad", "Ahsan", "Ali", 12, 13, 12)
+# print(std)
+# # std[0]=43
+# # print(std)
+# print(std.count(12))
+
+#set
+
+# unique values store in set
+
+# std = {"muhammad", "Ahsan", "Ali", 12, 13, 12}
+# # print(std)
+# for score in std:
+#     print(score)
+
+#Dictionary
+
+# std = {"muhammad": 50, "Ahsan": 43, "Ali": 122}
+# print(std)
+# std["math"]=100;
+# print(std)
+
+# Functions in Python
+# inbuild , Module, User-Defined,
