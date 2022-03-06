@@ -34,3 +34,11 @@ name = "Muhammad Ahsan"
 # print(name)
 print("Ahsan" in name)
 print("Ali" in name)
+
+#Oprators
+print(5**2)
+print(2 + 2 * 3 / 2)
+
+#Comments
+
+# Comments in Python
