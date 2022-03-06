@@ -15,7 +15,14 @@
 # myname = int(name) + 2
 # print(myname)
 
-first = input("Enter Your First No")
-second = input("Enter second No")
-total = int(first) + int(second)
-print(" the sum of no is" + str(total))
+# first = input("Enter Your First No")
+# second = input("Enter second No")
+# total = int(first) + int(second)
+# print(" the sum of no is" + str(total))
+
+from tokenize import String
+
+#String
+name = "Muhammad Ahsan"
+print(name.upper())
+print(name.find('A'))
